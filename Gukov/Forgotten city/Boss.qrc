@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/boss">
+        <file>image/boss/Herald of hell.jpg</file>
+        <file>image/boss/Monkey king.jpg</file>
+        <file>image/boss/Pangolin.jpg</file>
+        <file>image/boss/Skull collector.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/new/item">
+        <file>image/Item/Меч из чёрного стекла.png</file>
+        <file>image/Item/Кровавый урук-хай.png</file>
+        <file>image/Item/cell.png</file>
+        <file>image/Item/Красные штаны.png</file>
+        <file>image/Item/Капюшон бродяги.png</file>
+        <file>image/Item/Рваная рубашка.png</file>
+        <file>image/Item/healing potion.png</file>
+        <file>image/Item/mana potion.png</file>
+        <file>image/Item/Ботинки.png</file>
+        <file>image/Item/Броня наёмника.png</file>
+        <file>image/Item/Броня стражи теней.png</file>
+        <file>image/Item/Броня.png</file>
+        <file>image/Item/Вестник Ктулху.png</file>
+        <file>image/Item/Глашатый мёртвого бога.png</file>
+        <file>image/Item/Гномий пояс.png</file>
+        <file>image/Item/Гномий шлем.png</file>
+        <file>image/Item/Голубой жакет.png</file>
+        <file>image/Item/Двойное лезвие.png</file>
+        <file>image/Item/Дешевые сапоги.png</file>
+        <file>image/Item/Драконья кираса.png</file>
+        <file>image/Item/Железная кираса.png</file>
+        <file>image/Item/Железные ботинки.png</file>
+        <file>image/Item/Закрытый шлем.png</file>
+        <file>image/Item/Зелённые штаны.png</file>
+        <file>image/Item/Золотое кольцо.png</file>
+        <file>image/Item/Капюшон адепта тени.png</file>
+        <file>image/Item/Кинжал убийцы.png</file>
+        <file>image/Item/Кожаный пояс.png</file>
+        <file>image/Item/Кольцо дракона.png</file>
+        <file>image/Item/Кольцо льда.png</file>
+        <file>image/Item/Кольцо с изумрудами.png</file>
+        <file>image/Item/Кольцо с кристалом.png</file>
+        <file>image/Item/Кольцо стойкости.png</file>
+        <file>image/Item/Кольцо яда.png</file>
+        <file>image/Item/Королевский клинок.png</file>
+        <file>image/Item/Магические ботинки.png</file>
+        <file>image/Item/Мантия ученика.png</file>
+        <file>image/Item/Меховой пояс.png</file>
+        <file>image/Item/Меч инквизитора.png</file>
+        <file>image/Item/Меч паладина.png</file>
+        <file>image/Item/Посох льда.png</file>
+        <file>image/Item/Посох.png</file>
+        <file>image/Item/Пояс дриад.png</file>
+        <file>image/Item/Реликвия тени.png</file>
+        <file>image/Item/Роба адепта теней.png</file>
+        <file>image/Item/Синие ботинки.png</file>
+        <file>image/Item/Старый клинок.png</file>
+        <file>image/Item/Счастливая кирка.png</file>
+        <file>image/Item/Штаны адепта теней.png</file>
+        <file>image/Item/Штаны наёмника.png</file>
+    </qresource>
+</RCC>
