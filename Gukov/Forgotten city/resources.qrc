@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/base item">
+        <file>lists/monsters1.txt</file>
+        <file>lists/database item.txt</file>
+        <file>lists/costCity.txt</file>
+    </qresource>
+    <qresource prefix="/new/table">
+        <file>image/background/table image.jpg</file>
+    </qresource>
+    <qresource prefix="/new/monstes">
+        <file>image/enemyNPC/Bear.png</file>
+        <file>image/enemyNPC/Enemy.png</file>
+        <file>image/enemyNPC/orc.png</file>
+        <file>image/enemyNPC/vampire.jpg</file>
+        <file>image/enemyNPC/Wolf.png</file>
+        <file>image/enemyNPC/zombi.png</file>
+    </qresource>
+    <qresource prefix="/new/boss">
+        <file>image/boss/Herald of hell.jpg</file>
+        <file>image/boss/Monkey king.jpg</file>
+        <file>image/boss/Pangolin.jpg</file>
+        <file>image/boss/Skull collector.jpg</file>
+    </qresource>
+</RCC>
